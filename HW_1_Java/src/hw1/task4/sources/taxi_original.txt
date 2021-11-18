@@ -1,0 +1,14 @@
+Econom: licensePlate=AA1111-11, brand=Chevrolet Aveo, bodyworkType=SEDAN, price=1.5, fuelConsumption=6, speed={10,20,40,60,120}, startCost=8000, countOfPassengers=4, kidsPlace=true, countOfKidsPlace=2
+Econom: licensePlate=AB1111-22, brand=Kia Rio, bodyworkType=SEDAN, price=1.5, fuelConsumption=6, speed={20,40,60,100,140}, startCost=10000, countOfPassengers=4
+Econom: licensePlate=AC1111-33, brand=Hyundai Solaris, bodyworkType=HATCHBACK, price=1.5, fuelConsumption=6, speed={10,20,40,60,120}, startCost=9000, countOfPassengers=4
+Econom: licensePlate=AD1111-44, brand=Kia Rio, bodyworkType=HATCHBACK, price=1.5, fuelConsumption=6, speed={20,40,60,100,140}, startCost=8000, countOfPassengers=4, countOfKidsPlace=1
+Econom: licensePlate=AE1111-55, brand=Chevrolet Aveo, bodyworkType=SEDAN, price=1.5, fuelConsumption=6, speed={10,30,60,100,140}, startCost=8000, countOfPassengers=4
+Econom: licensePlate=AF1111-66, brand=Chevrolet Aveo, bodyworkType=SEDAN, price=1.5, fuelConsumption=6, speed={10,30,60,100,140}, startCost=9000, countOfPassengers=4
+Econom: licensePlate=AG1111-77, brand=Lada Largus, bodyworkType=MINIVAN, price=1.6, fuelConsumption=8, speed={10,40,60,80,140}, startCost=11000, countOfPassengers=6, kidsPlace=true, countOfKidsPlace=3
+Econom: licensePlate=AH1111-88, brand=Lada Largus, bodyworkType=MINIVAN, price=1.6, fuelConsumption=8, speed={10,40,60,80,140}, startCost=11000, countOfPassengers=6
+Business: licensePlate=BH1111-88, brand=Lexus ES, bodyworkType=SEDAN, price=2, fuelConsumption=10, speed={20,60,80,100,180}, startCost=11000, numberOfBusinessClass=2
+Business: licensePlate=BH1111-88, brand=BMV M3, bodyworkType=SEDAN, price=2, fuelConsumption=10, speed={20,60,80,100,180}, startCost=11000, numberOfBusinessClass=2
+Business: licensePlate=BH1111-88, brand=Audi S3, bodyworkType=HATCHBACK, price=3, fuelConsumption=13, speed={20,50,90,110,180}, startCost=11000, numberOfBusinessClass=3
+Business: licensePlate=BH1111-88, brand=Kia XCeed, bodyworkType=HATCHBACK, price=3, fuelConsumption=15, speed={20,60,80,100,200}, startCost=11000, numberOfBusinessClass=3
+Business: licensePlate=BH1111-88, brand=BMV 4, bodyworkType=CABRIOLET, price=5, fuelConsumption=15, speed={20,50,90,110,180}, startCost=11000, numberOfBusinessClass=1
+Business: licensePlate=BH1111-88, brand=Lexus LC500, bodyworkType=CABRIOLET, price=5, fuelConsumption=16, speed={20,60,80,100,180}, startCost=11000, numberOfBusinessClass=1
