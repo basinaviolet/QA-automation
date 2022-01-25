@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1" >
+    <test name="Group of tests of inserting new user or account" >
+        <groups>
+            <run>
+                <include name="insert new"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="UserAccountTest"/>
+        </classes>
+    </test>
+</suite>
